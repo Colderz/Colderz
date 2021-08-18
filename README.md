@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Colderz
-- 💞️ 3rd year 👨‍🎓(Applied Computer Science) Mobile technologies and testing (Kotlin, Java, Dart) 📱
-- 👀 I’m interested in mobile technologies and testing.
-- 🌱 I’m currently learning Automated Testing and Flutter.
+- 💞️ 4rd year 👨‍🎓(Applied Computer Science) 
+- 🐱‍👤 Android Developer at Comarch, Flutter/Dart enthusiast 📱
 - 📫 Reach me --> https://www.linkedin.com/in/arkadiusz-zimny-43aaab1a3/
