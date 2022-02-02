@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Colderz
-- 💞️ 4th year 👨‍🎓(Applied Computer Science) 
-- 🐱‍👤 Android Developer at Comarch (*Java, Kotlin*), Flutter/Dart enthusiast 📱
+- 💞️ Bachelor of Engineering 👨‍🎓(Applied Computer Science) 
+- 🐱‍👤 Regular Software Engineer at Ailleron (*Kotlin*), Flutter/Dart enthusiast 📱
 - 📫 Reach me --> https://www.linkedin.com/in/arkadiusz-zimny-43aaab1a3/
